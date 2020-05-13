@@ -1,6 +1,6 @@
 const express = require('express');
 
-const carRouter = require('../cars/carsRouter');
+const carRouter = require('../cars/carsRouter.js');
 
 const server = express();
 
